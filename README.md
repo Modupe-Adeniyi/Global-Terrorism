@@ -6,6 +6,12 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Data Preparation and Cleaning](#data-preparation-and-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitation](#limitation)
+  
 ## Project Overview
 
 This project seeks to offer a thorough examination of worldwide terrorism trends and patterns. Through the analysis of diverse facets of available data, my goal is to discern global terrorism trends, pinpoint the regions and countries most heavily impacted, assess the evolution of terrorism's impact over time, and formulate data-driven recommendations aimed at preventing or mitigating future terrorist attacks.
@@ -43,7 +49,7 @@ Created calculated columns and measures using PowerBI, such as:
 ```Successful attack = CALCULATE(SUMX('Terrorism cleaned',IF('Terrorism cleaned'[Success attack count]="yes",1,0)))```
 
 
-## Results/Findings
+## Results
 
 The analysis results are summarized as follows:
 1. Between 1970 and 2017, there were 156,613 recorded attacks, peaking in 2014.
