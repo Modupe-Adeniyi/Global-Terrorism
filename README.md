@@ -16,6 +16,10 @@
 
 This project seeks to offer a thorough examination of worldwide terrorism trends and patterns. Through the analysis of diverse facets of available data, my goal is to discern global terrorism trends, pinpoint the regions and countries most heavily impacted, assess the evolution of terrorism's impact over time, and formulate data-driven recommendations aimed at preventing or mitigating future terrorist attacks.
 
+<img width="553" alt="Terrorism 1" src="https://github.com/Modupe-Adeniyi/Global-Terrorism/assets/151841781/c1575d3e-f69b-41da-8786-abaffbfa67c4">
+
+<img width="461" alt="Terrorism 2" src="https://github.com/Modupe-Adeniyi/Global-Terrorism/assets/151841781/8a067e28-3e6d-4926-802b-4456bf230ba1">
+
 ## Data Sources
 
 The central dataset employed in this analysis is the "Terrorism_Dataset.csv" obtained from Intern Career. This dataset encompasses comprehensive details about terrorist attacks on a global scale, including information on the date, location, attack type, weapons utilized, number of casualties, and the groups responsible.
